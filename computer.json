@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Computer",
   "author": "Scott Newton",
-  "website": "https://www.kevinahrendt.com/",
+  "website": "",
   "model": "./computer.tflite",
   "version": 1,
   "micro": {
