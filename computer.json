@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Computer",
   "author": "Scott Newton",
-  "website": "",
+  "website": "https://www.home-assistant.io",
   "model": "computer.tflite",
   "trained_languages": [
       "en"
@@ -12,7 +12,7 @@
     "probability_cutoff": 0.97,
     "sliding_window_size": 5,
     "feature_step_size": 10,
-    "tensor_arena_size": 22860,
+    "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
 }
